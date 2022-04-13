@@ -1,8 +1,8 @@
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-peterbrede-docs/>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-peterbrede-docs-qa/>
 
 Badge:
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-peterbrede/branch/main/graph/badge.svg?token=LUigoz1pRJ)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-peterbrede)
